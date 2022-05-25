@@ -1,8 +1,6 @@
 ### ✨ Hello world! Eu sou a Mari. ✨
 
 <br>
-<br>
-<br>
 
 
 
