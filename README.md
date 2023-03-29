@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Eu sou estudante de Análises e desenvolvimento de sistemas com foco em programação FRONT-END.
+### Eu sou estudante de Ciências da Computação com foco em programação Full-Stack Java.
 <img src="https://i.pinimg.com/originals/b5/e7/d7/b5e7d7bcfb169a427fa505e11ba02ba2.jpg" width="350" height="480"/>
 
   <br>
